@@ -1,0 +1,11 @@
+$primary: #FE938C;
+$secondary: #4281A4;
+$accent: #4281A4;
+$light: #9CAFB7;
+$dark: #3a506b;
+
+.body {
+    height: 100vh
+}
+
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
